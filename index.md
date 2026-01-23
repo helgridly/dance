@@ -8,7 +8,7 @@ splide: false
 
 # NEXT DANCE
 
-<a href="https://partiful.com/e/NgKlR3kqska1C9O9SoyK><img src="{{site.baseurl}}/images/eventpics/2026-01-29_Undertow.jpg" class="responsive-img"></a>
+<a href="https://partiful.com/e/NgKlR3kqska1C9O9SoyK"><img src="{{site.baseurl}}/images/eventpics/2026-01-29_Undertow.jpg" class="responsive-img"></a>
 
 <b>29th Jan 2026  
 7-9.15pm @ The Gibney, Studio W  
