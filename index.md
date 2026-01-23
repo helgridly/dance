@@ -8,7 +8,7 @@ splide: false
 
 # NEXT DANCE
 
-<img src="{{site.baseurl}}/images/eventpics/2026-01-29_Undertow.jpg" width="100%">
+<img src="{{site.baseurl}}/images/eventpics/2026-01-29_Undertow.jpg">
 
 <b>29th Jan 2026  
 7-9.15pm @ The Gibney, Studio W  
