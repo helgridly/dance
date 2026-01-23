@@ -46,6 +46,14 @@ td {
   max-width: 100%;
 }
 
+.responsive-img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  width: min(600px, 90vw);
+}
+
 .flex-container {
   display: flex;
   gap: 10px; /* adds space between images */
