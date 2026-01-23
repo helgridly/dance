@@ -8,11 +8,13 @@ splide: false
 
 # NEXT DANCE
 
-<img src="{{site.baseurl}}/images/eventpics/2026-01-29_Undertow.jpg" class="responsive-img">
+<a href="https://partiful.com/e/NgKlR3kqska1C9O9SoyK><img src="{{site.baseurl}}/images/eventpics/2026-01-29_Undertow.jpg" class="responsive-img"></a>
 
 <b>29th Jan 2026  
 7-9.15pm @ The Gibney, Studio W  
-<a href="https://maps.app.goo.gl/2Ja3sX4V2rwvjso79">53A Chambers St</a></b>
+<a href="https://maps.app.goo.gl/2Ja3sX4V2rwvjso79">53A Chambers St</a>
+
+<a href="https://partiful.com/e/NgKlR3kqska1C9O9SoyK">Tickets & RSVP here</a></b>
 
 It's called Undertow because that's the feeling I get from dances I like: of being pulled down, under, into surrender.
 
