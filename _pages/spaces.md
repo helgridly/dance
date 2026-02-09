@@ -53,7 +53,7 @@ On the day of my class, staff were late arriving to set up the sound deadening c
     Many spaces, of varying quality. Some are awkward L shapes, some are big rooms with columns. Range from 1000 to 1800sqft.  
     Prices range from $70-120/hr for Manhattan, $30-40 for LIC. Listing [here](https://www.joffreyballetschool.com/rentals/). Scroll down and once you choose a location it'll update with prices.
 * Availability: Extremely booked out, especially weekday evenings. Calendar [here](https://clients.mindbodyonline.com/ASP/main_appts.asp?studioid=18911)
-* Hours: 8am-9pm. NYCity Waves on Tuesday nights has an extension to 10pm because they've been renting for literal decades; when I asked for the same, I was told it was above her pay grade and she'd have to go up the chain for permission.
+* Hours: 8am-9pm. NYCity Waves on Tuesday nights has an extension to 10pm because they've been renting for literal decades; when I asked for the same, I was told it was above the rental coordinator's pay grade and she'd have to go up the chain for permission.
 * Floor: Very sprung marley. Boing!
 * Tables, etc: Don't know.
 * Sound: There are small speakers on stands in each room but I don't know anything about them. NYCity Waves (Tues night) and Sunday ReSet share speakers in storage on premises but you'd have to ask if you can borrow them; they seemed a bit reluctant when I asked.
