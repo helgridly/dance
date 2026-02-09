@@ -116,6 +116,8 @@ On the day of my class, staff were late arriving to set up the sound deadening c
 * Sound: Aux cord in each room but the speakers have no bass. Not permitted to use the big speakers in the theater.
 * Cancellation policy: Don't know.
 
+Nico used to run classes here, in the theater. He described them as a rocket ship -- the black room in the basement holds and stokes a lot of energy.
+
 ### My Room
 
 * Location: 
