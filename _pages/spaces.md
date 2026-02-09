@@ -73,6 +73,7 @@ On the day of my class, staff were late arriving to set up the sound deadening c
 | [Bettie de Jong](https://paultaylordance.org/discover/about-us/studio-rentals/taylor-dance-west/) @ Midtown | 950sqft | $200 |
 | [Studio 3](https://paultaylordance.org/discover/about-us/studio-rentals/taylor-dance-west/) @ Midtown | 810sqft | $150 |
 | [Studio 4](https://paultaylordance.org/discover/about-us/studio-rentals/taylor-dance-west/) @ Midtown | 1100sqft | $225 |
+
 * Availability: Unsure.
 * Hours: Not listed.
 * Floor: Marley, except for Studio 3, which is sprung wood.
