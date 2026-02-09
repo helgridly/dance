@@ -81,6 +81,29 @@ On the day of my class, staff were late arriving to set up the sound deadening c
 * Sound: Sound system available in all rooms. QSC E110s or QSC Halo Pendants.
 * Cancellation policy: 72 hours.
 
+### Mark Morris
+
+* Location: [Fort Greene, BK](https://maps.app.goo.gl/zRejZPveegVaZtbJA)
+* Space & cost: Many studios. Overview [here](https://markmorrisdancegroup.org/dance-center/space-rental/compare-studios/), prices [here](https://markmorrisdancegroup.org/space-rental/rental-rates/). Prices vary from $65/hr for 800sqft to $160/hr for 3600sqft:
+
+| Studio | Size | Price /hr |
+|--------|------|-------|
+| [ICF](https://markmorrisdancegroup.org/dance-center/space-rental/Rental-Spaces/Studios/Independence-Community-Foundation-Studio) | 720sqft | $65 |
+| [Studio B](https://markmorrisdancegroup.org/dance-center/space-rental/Rental-Spaces/Studios/Studio-B) | 800sqft | $65 |
+| [Hodgkin](https://markmorrisdancegroup.org/dance-center/space-rental/Rental-Spaces/Studios/Howard-Hodgkin-Studio) | 875sqft | $65 |
+| [Studio F](https://markmorrisdancegroup.org/space-rental/studio-f/) | 1120sqft | $80 |
+| [Maxine](https://markmorrisdancegroup.org/space-rental/maxine-morris-studio/) | 1400sqft | $95 |
+| [Studio E](https://markmorrisdancegroup.org/space-rental/studio-e/) | 1500sqft | $95 |
+| [Cole](https://markmorrisdancegroup.org/dance-center/space-rental/Rental-Spaces/Studios/Robert-W.-Cole-Studio) | 1900sqft | $125 |
+| [Duffy](https://markmorrisdancegroup.org/space-rental/james-and-martha-duffy-performance-space/) | 3600sqft | $160 |
+
+* Availability: Near impossible, except for space on Sunday daytimes. Calendar [here](https://mmdg.emscloudservice.com/web/BrowseForSpace.aspx)
+* Hours: 8-9 weekdays, 9-6 Saturday, 8-3 Sunday
+* Floor: Sprung marley
+* Tables, etc: Available but paid
+* Sound: Mostly ceiling mounted speakers with aux cord
+* Cancellation policy: 7 days
+
 ### Triskelion Arts
 
 * Location: [Greenpoint](https://maps.app.goo.gl/ek2FBFCcimBPALc78)
@@ -118,11 +141,8 @@ This place is clearly one guy's passion project and he's really interested in bu
 
 
 
-
-
 ### TODO
 
-* [Mark Morris](https://markmorrisdancegroup.org/dance-center/space-rental/compare-studios/) ([schedule](https://mmdg.emscloudservice.com/web/BrowseForSpace.aspx))
 * [St. Mark's](https://stmarksbowery.org/private-events) - main space is $500/hr, parish hall $300/hr
 * [Abron Arts](https://www.abronsartscenter.org/rentals/studio) -- but they never responded to me
 * [Chez Bushwick](https://www.chezbushwick.net/studio) ([schedule](https://www.chezbushwick.net/schedule))
