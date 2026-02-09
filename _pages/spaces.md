@@ -108,6 +108,7 @@ On the day of my class, staff were late arriving to set up the sound deadening c
 
 * Location: [Greenpoint](https://maps.app.goo.gl/ek2FBFCcimBPALc78)
 * Space & cost: [Listing here](https://www.triskelionarts.org/our-studios). Note that they will let you double the capacity limit listed under "rehearsal max occupancy" but that will double the cost of the rental.
+    * I negotiated them down to $75/hr for the theater, with a max of 26 occupants.
 * Availability: Fairly booked but slots available. Calendar [here](https://www.triskelionarts.org/availability-calendar)
 * Hours: 9am-10pm. You get a key (one-off fee for this).
 * Floor: Marley in theater, wood (unsure if sprung, probably) otherwise.
