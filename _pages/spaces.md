@@ -142,6 +142,16 @@ This place is clearly one guy's passion project and he's really interested in bu
 * Sound: Crappy ceiling speakers.
 * Cancellation policy: Don't know.
 
+### Abhaya Yoga
+
+* Location: [Dumbo](https://maps.app.goo.gl/HuswwQAgZdqrnkmw6) ([website](https://abhayayoga.com/about/))
+* Space & cost: 1100sqft, volume-based pricing but ~$200-500/hr
+* Availability: Not sure
+* Hours: 24-hour building security so might be flexible
+* Floor: Heated hardwood
+* Tables, etc: Not sure
+* Sound: JBL bluetooth
+* Cancellation policy: Not sure
 
 
 ### TODO
@@ -158,7 +168,6 @@ This place is clearly one guy's passion project and he's really interested in bu
 #### Contacted but no response yet
 
 * [Brooklyn Flow](https://brooklynflow.com/brooklyn-flow-faqs-copy), downtown BK
-* [Abhaya Yoga](https://abhayayoga.com/about/), dumbo
 * [Y7 Yoga](https://www.y7-studio.com/studios/details?studioId=6) Many around town, good sound system. Contacted the Park Slope location.
 
 #### Weird long shots
