@@ -131,17 +131,6 @@ Nico used to run classes here, in the theater. He described them as a rocket shi
 
 This place is clearly one guy's passion project and he's really interested in building community; he hinted that you can get even cheaper rates if you develop a sustained relationship with them. He also has storage space in the building that he can bundle in for a little extra $.
 
-### Movement Gowanus
-
-* Location: [Gowanus, Brooklyn](https://maps.app.goo.gl/CHyfXquyVoGUy7376)
-* Space & cost: 1125sqft yoga / fitness studio. Call or ask at the front desk for rates; it's handled by one guy who seems to be making it up. You can probably negotiate.
-* Availability: Some. If you flip through the [calendar](https://movementgyms.com/gowanus/calendar/?location=gowanus) and select "Yoga" and "Fitness" on the left, you can see what's already there.
-* Hours: 7am-11pm weekdays, 9am-10pm weekends.
-* Floor: Wood over concrete.
-* Tables, etc: Don't know.
-* Sound: Crappy ceiling speakers.
-* Cancellation policy: Don't know.
-
 ### Abhaya Yoga
 
 * Location: [Dumbo](https://maps.app.goo.gl/HuswwQAgZdqrnkmw6) ([website](https://abhayayoga.com/about/))
