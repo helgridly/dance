@@ -16,7 +16,7 @@ The one promise I make is that we will always, _always_ land gently.
 
 # NEXT DANCE
 
-<a href="https://partiful.com/e/pBcV88Q6jZKiEciA2uek"><img src="{{site.baseurl}}/images/eventpics/2026-03-27_Undertow.jpg" class="responsive-img"></a>
+<a href="https://partiful.com/e/pBcV88Q6jZKiEciA2uek"><img src="{{site.baseurl}}/images/eventpics/2026-03-07_Undertow.jpg" class="responsive-img"></a>
 
 <b>📅 7th March 2026, 5.30-7.30pm    
 🌐 <a href="https://maps.app.goo.gl/zdoZLVXJiVJ33LXPA">My Room, 150 W 28th St, Suite 303</a></b> (new location!)
