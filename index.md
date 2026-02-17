@@ -16,13 +16,16 @@ The one promise I make is that we will always, _always_ land gently.
 
 # NEXT DANCE
 
-Details coming soon!
+<a href="https://partiful.com/e/pBcV88Q6jZKiEciA2uek"><img src="{{site.baseurl}}/images/eventpics/2026-03-27_Undertow.jpg" class="responsive-img"></a>
+
+<b>📅 7th March 2026, 5.30-7.30pm    
+🌐 <a href="https://maps.app.goo.gl/zdoZLVXJiVJ33LXPA">My Room, 150 W 28th St, Suite 303</a></b> (new location!)
+
+<b>🎟 <a href="https://partiful.com/e/pBcV88Q6jZKiEciA2uek">Tickets & RSVP here</a> 🎟</b>
+
 
 # PREVIOUS DANCES
 
-<a href="https://partiful.com/e/NgKlR3kqska1C9O9SoyK"><img src="{{site.baseurl}}/images/eventpics/2026-01-29_Undertow.jpg" class="responsive-img"></a>
-
-<b>📅 29th Jan 2026, 7-9.15pm    
-🌐 <a href="https://maps.app.goo.gl/2Ja3sX4V2rwvjso79">The Gibney, Studio W, 53A Chambers St</a></b>
-
-<b>🎟 <a href="https://partiful.com/e/NgKlR3kqska1C9O9SoyK">Tickets & RSVP here</a> 🎟</b>
+**Undertow**, 29th Jan 2026  
+7-9.15pm @ The Gibney  
+<a href="https://hearthis.at/husseinmixes/mix8/">set 1</a>, <a href="https://hearthis.at/husseinmixes/mix7/">set 2</a>
