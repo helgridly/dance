@@ -1,7 +1,7 @@
 ---
 layout: page
 title: reactions
-permalink: /reactions/
+permalink: /reactions
 ---
 
 

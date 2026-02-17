@@ -1,7 +1,7 @@
 ---
 layout: page
 title: List of dance spaces in the NYC area
-permalink: /spaces/
+permalink: /spaces
 ---
 
 Here's a list of the dance spaces I've found in NYC. If you have more that you know of and are willing to share, please contact me on WhatsApp if you already have my number or @husseindances on Instagram if you don't.

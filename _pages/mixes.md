@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Listen to my mixes
-permalink: /mixes/
+permalink: /mixes
 ---
 
 You can [find me on HearThis](https://hearthis.at/husseinmixes/), or listen below.

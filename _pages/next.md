@@ -1,5 +1,5 @@
 ---
 layout: redirect
-permalink: /next/
+permalink: /next
 redirect: https://partiful.com/e/pBcV88Q6jZKiEciA2uek
 ---
