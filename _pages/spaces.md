@@ -145,6 +145,7 @@ This place is clearly one guy's passion project and he's really interested in bu
 
 ### TODO
 
+* The list at [indiespace.org](https://www.indiespace.org/discounted-rehearsal-space)
 * [St. Mark's](https://stmarksbowery.org/private-events) - main space is $500/hr, parish hall $300/hr
 * [Abron Arts](https://www.abronsartscenter.org/rentals/studio) -- but they never responded to me
 * [Chez Bushwick](https://www.chezbushwick.net/studio) ([schedule](https://www.chezbushwick.net/schedule))
