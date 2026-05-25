@@ -4,7 +4,7 @@ title: everything i know about DJing
 permalink: /how
 ---
 
-~everything i know about how to DJ. i offer lessons :slightly_smiling_face:
+~everything i know about how to DJ. i offer lessons 🙂
 
 ## Music management
 
