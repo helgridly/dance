@@ -53,7 +53,7 @@ I learned how to DJ in Traktor almost entirely from YouTube. There's tons out th
 * Transitioning across large BPM gaps
 * Filter & filter modes
 * Low switch
-* Other EQ shenanigans
+* Other EQ techniques
 
 ### Traktor next steps
 
