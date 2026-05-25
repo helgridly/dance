@@ -142,6 +142,18 @@ This place is clearly one guy's passion project and he's really interested in bu
 * Sound: JBL bluetooth
 * Cancellation policy: Not sure
 
+### Still Mind Zendo
+
+* Location: [W 15th, near Union Sq](https://maps.app.goo.gl/cf1WrxQSkxJopHqS7) ([website](https://www.stillmindzendo.org/rent-our-space)
+* Space & cost: 700sqft, plus common area, $50/hr min 2h/week
+* Availability: Not sure
+* Hours: Not sure
+* Floor: Hardwood
+* Tables, etc: Not sure
+* Sound: Not sure
+* Cancellation policy: Not sure
+
+
 
 ### TODO
 
