@@ -153,7 +153,16 @@ This place is clearly one guy's passion project and he's really interested in bu
 * Sound: Not sure
 * Cancellation policy: Not sure
 
+### Bhakti Marga
 
+* Location: [W 30th b/w 7th & 8th](https://maps.app.goo.gl/mLkp2S4jNofar3h1A) ([website](https://bhaktimarga.nyc/pages/rentals))
+* Space & cost: Not sure sqftage, $100/hr
+* Availability: Not sure
+* Hours: Not sure
+* Floor: Hardwood
+* Tables, etc: Available
+* Sound: Bluetooth speaker
+* Cancellation policy: 7 days, for credit
 
 ### TODO
 
