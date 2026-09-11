@@ -175,6 +175,7 @@ This place is clearly one guy's passion project and he's really interested in bu
 * [American Mime Theater](https://americanmimetheatre.org/rentals) Midtown, 800sqft $75/hr
 * [Free Mind](https://www.freemindthestudio.com/rent-the-space) Bushwick, 1000sqft $100/hr, JBL PartyBoxes, ([peerspace](https://www.peerspace.com/pages/listings/667d82fe643da4d3ae160dfc#type=media))
 * [Third Door](https://www.thirddoorbrooklyn.com/), Dumbo
+* [Spoke The Hub](https://spokethehub.org/space-rental-2/), Park Slope
 
 #### Contacted but no response yet
 
