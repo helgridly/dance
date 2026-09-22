@@ -4,7 +4,7 @@ title: DJ lessons with hussein
 permalink: /lessons
 ---
 
-You probably got here from my [list of everything I know about how to DJ](/how). I can teach you anything on that page.
+This website has a [list of everything I know about how to DJ](/how). I can teach you anything on that page.
 
 We can do this many ways: starting from a blank slate (while frontloading the fun!); or we can focus on building specific skills you're interested in; or we can do less structured feedback / advice / question / chitchat sessions.
 
