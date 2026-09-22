@@ -4,7 +4,7 @@ title: everything i know about DJing
 permalink: /how
 ---
 
-~everything i know about how to DJ. i offer lessons 🙂
+~everything i know about how to DJ. i offer lessons 🙂 ([more info!](/lessons))
 
 ## Music management
 
@@ -54,6 +54,7 @@ I learned how to DJ in Traktor almost entirely from YouTube. There's tons out th
 * Filter & filter modes
 * Low switch
 * Other EQ techniques
+* Make an edit if your transition is too complicated
 
 ### Traktor next steps
 
