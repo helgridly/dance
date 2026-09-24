@@ -176,6 +176,9 @@ This place is clearly one guy's passion project and he's really interested in bu
 * [Free Mind](https://www.freemindthestudio.com/rent-the-space) Bushwick, 1000sqft $100/hr, JBL PartyBoxes, ([peerspace](https://www.peerspace.com/pages/listings/667d82fe643da4d3ae160dfc#type=media))
 * [Third Door](https://www.thirddoorbrooklyn.com/), Dumbo
 * [Spoke The Hub](https://spokethehub.org/space-rental-2/), Park Slope
+* [Kestrels](https://www.kestrels.space/rehearsal-rental), Gowanus
+* Bill Young’s Studio | 100 Grand St. 2nd fl. SoHo | $20+/hr | wgy@panix.com
+* Warshaw Studio | 115 Wooster St. 2nd fl. SoHo | $22/hr | celinewarshaw@yahoo.com 
 
 #### Contacted but no response yet
 
