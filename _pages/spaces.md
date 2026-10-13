@@ -65,7 +65,7 @@ Details get sparse towards the end; I haven't filled them out. If you look into 
 | [NYU 404 Fitness Center](https://gonyuathletics.com/sports/2016/9/22/404_Activity_Areas.aspx) | Dance studio |  |  |  |  |  |  |  |  |  |
 | [Church of the Village](https://www.churchofthevillage.org/space-for-rent) |  |  |  | West Village |  |  |  |  |  |  |
 | [Cavalry St. George's](https://www.calvarystgeorges.org/about/filming-rental-inquiries) |  |  |  | East Village |  |  |  |  |  |  |
-| [Methodz](https://www.methodzof.com/rentalz) | Main space | 1000sqft | $50 | [Bushwick, Morgan L](https://maps.app.goo.gl/fRitV7HdLy7Cm1Ws6) | 6.30a-10p | Decent | Marley | Waiting area | Single bluetooth thing |  |
+| [Methodz](https://www.methodzof.com/rentalz) | Main space | 1000sqft | $50 | [Bushwick, Morgan L](https://maps.app.goo.gl/fRitV7HdLy7Cm1Ws6) | Decent | 6.30a-10p | Marley | Waiting area | Single bluetooth thing |  |
 
 <!-- | Venue | Studio | Size | Price/hr | Location (map link) | Availability | Hours | Floor | Tables etc | Sound | Cancellation policy | -->
 
