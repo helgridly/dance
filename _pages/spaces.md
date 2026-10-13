@@ -67,6 +67,6 @@ Details get sparse towards the end; I haven't filled them out. If you look into 
 | [Cavalry St. George's](https://www.calvarystgeorges.org/about/filming-rental-inquiries) |  |  |  | East Village |  |  |  |  |  |  |
 | [Methodz](https://www.methodzof.com/rentalz) | Main space | 1000sqft | $50 | [Bushwick, Morgan L](https://maps.app.goo.gl/fRitV7HdLy7Cm1Ws6) | 6.30a-10p | Decent | Marley | Waiting area | Single bluetooth thing |  |
 
-<!--> | Venue | Studio | Size | Price/hr | Location (map link) | Availability | Hours | Floor | Tables etc | Sound | Cancellation policy | <-->
+<!-- | Venue | Studio | Size | Price/hr | Location (map link) | Availability | Hours | Floor | Tables etc | Sound | Cancellation policy | -->
 
 </div>
